@@ -23,9 +23,9 @@ OS disk type: Standard HDD (locally-redundant storage)
 
 Review + Create
 
--> Download key and deploy resources
+-> Download private key and create resources
 
--> Once deployed, click on 'Go to the resources'
+-> Once deployment is completed, click on 'Go to resources'
 
 # Step3: Check SSH Connection
 
